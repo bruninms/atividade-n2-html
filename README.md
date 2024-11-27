@@ -1,8 +1,6 @@
 # Projeto: [N2_At2]
 
 ## 📄 Descrição
-Uma breve descrição do projeto. Explique a proposta do site, seu propósito, e o que ele oferece aos usuários.
-
 Este é um site responsivo desenvolvido para a avaliação do grupo de estudantes de ciência da computação composto pelos integrantes: Abner Rafael, Andrey Voos, Bruno Matias, Gustavo Alves e Tarso Hebert. 
 Ele utiliza HTML, CSS, JavaScript e Bootstrap para criar uma interface amigável e funcional com o tema da Ferrari.
 
@@ -22,12 +20,13 @@ As tecnologias e ferramentas usadas no desenvolvimento do site:
 - [Funcionalidade 2]:  Design responsivo
 - [Funcionalidade 3]:  Slider de imagens
 - [Funcionalidade 4]:  Conteúdo de mídia audiovisual
+- [Funcionalidade 4]:  Galeria de imagens
 
 ---
 
 ## 💻 Como Visualizar o Projeto
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/bruninms/atividade-n2-html
 Abra o arquivo index.html em seu navegador.
 
 📝 Personalização
